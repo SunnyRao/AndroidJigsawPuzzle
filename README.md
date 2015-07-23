@@ -3,5 +3,9 @@
 
 ## Demo
 
+![](/gif/demo1.gif)
 
+![](/gif/demo2.gif)
+
+![](/gif/demo3.gif)
 
